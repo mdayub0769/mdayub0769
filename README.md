@@ -2,18 +2,18 @@
 
 <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%"/>
 
-# 👋 Hi, I'm Md
+# 👋 Hi, I'm Md Ayub 
 
-### 🚀 Data Scientist | Generative AI Engineer | Agentic AI Developer | AI Trainer
+Data Analyst |Business Analyst|Data Scientist | Generative AI Engineer | Agentic AI Developer | 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C4FF\&center=true\&vCenter=true\&height=60\&width=1000\&lines=Data+Scientist;Generative+AI+Engineer;LLM+Application+Developer;RAG+%7C+LangChain+%7C+LangGraph;Machine+Learning+%7C+Deep+Learning;Agentic+AI+Builder;MLOps+%7C+LLMOps)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="mailto:mohammadshahil4u@gmail.com">
+<a href="mailto:ayubsheikh7511@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/md-shahil-ai">
+<a href="https://www.linkedin.com/in/ayub-sheikh-135202249/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -32,7 +32,7 @@
 
 # 💡 About Me
 
-I am a Data Scientist and Generative AI Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, Large Language Models (LLMs), and Agentic AI.
+I am a Data Analyst  and Generative AI Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, Large Language Models (LLMs), and Agentic AI.
 
 🔹 Building production-ready AI applications
 
@@ -44,9 +44,9 @@ I am a Data Scientist and Generative AI Engineer passionate about building intel
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
-* Generative AI & LLM Applications
+* Generative AI 
 * Agentic AI Systems
 * LangGraph & Multi-Agent Workflows
 * Enterprise RAG Architectures
@@ -55,7 +55,7 @@ I am a Data Scientist and Generative AI Engineer passionate about building intel
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -100,7 +100,7 @@ I am a Data Scientist and Generative AI Engineer passionate about building intel
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-shahil-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-shahil-ai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayub-sheikh-135202249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/Md Ayub-a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -112,35 +112,33 @@ I am a Data Scientist and Generative AI Engineer passionate about building intel
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
-### 🤖 Enterprise RAG Chatbot
+### Enterprise RAG Chatbot
 
 Document intelligence platform using LangChain, ChromaDB, FastAPI, and LLMs.
 
-### 🎤 AI Interviewer Platform
+### AI Interviewer Platform
 
 AI-powered mock interview and candidate evaluation system.
 
-### 🌾 Krishi Mitra
+## Krishi Mitra
 
 Crop recommendation, disease prediction, and agricultural AI assistant.
 
-### 📊 Student Performance Predictor
-
 End-to-end MLOps project with deployment and monitoring.
 
-### 🧠 Multi-Agent Research Assistant
+## Multi-Agent Research Assistant
 
 CrewAI and LangGraph powered autonomous research workflow.
 
-### 📝 ATS Resume Analyzer
+## ATS Resume Analyzer
 
 LLM-powered resume optimization and job matching platform.
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 * Agentic AI Engineering
 * LLMOps
@@ -151,7 +149,7 @@ LLM-powered resume optimization and job matching platform.
 
 ---
 
-# 🤝 Open To
+# Open To
 
 ✅ Data Scientist Roles
 
