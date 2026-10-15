@@ -13,7 +13,7 @@ Data Analyst |Business Analyst|Data Scientist | Generative AI Engineer | Agentic
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ayub-sheikh-135202249/">
+<a href="www.linkedin.com/in/mdayub07">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
